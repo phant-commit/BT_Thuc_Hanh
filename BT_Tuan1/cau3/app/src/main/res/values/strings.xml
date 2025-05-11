@@ -1,0 +1,8 @@
+<resources>
+    <string name="back_button">Nút quay lại</string>
+    <string name="edit_button">Nút chỉnh sửa</string>
+    <string name="avatar_desc">Ảnh đại diện</string>
+    <string name="johan_name">Tấn Phát</string>
+    <string name="johan_location">TP HỒ CHÍ MINH, VN</string>
+    <string name="app_name">Tên ứng dụng của bạn</string>
+</resources>
